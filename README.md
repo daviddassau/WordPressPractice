@@ -35,3 +35,4 @@ You can give your local sites custom domain names, instead of having them be `lo
 
 ### Create Boostrap Integrated WP Themes
 1. The first thing you want to do is, on the themes folder in your code editor, right-click and create a new folder called "parent_theme_name-child".
+2. A child theme folder needs to have at least two files: the `style.css` and `functions.php` files. You can navigate to https://codex.wordpress.org/Child_Themes to get more info. From there, you can use the chunk of code to paste at the top of your `style.css` file.
