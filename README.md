@@ -26,6 +26,7 @@ Template:  twentyseventeen
 ### Set up multiple sites with custom domains
 You can give your local sites custom domain names, instead of having them be `localhost/****`. Here are the steps:
 1. Create a folder anywhere. EX: Create a folder called `MyWebProjects` in your Documents folder. Inside that folder, create a new folder, and name it whatever your project is going to be.
-2. as;dkfj
+2. Then, you want to navigate back to wherever you installed WP, copy all of the files, then head back to your new project folder, and paste those bad boys in.
+3. What you need to do next is start creating your custom domain. First, inside the finder window in the "url" box with the folder path, click in there and copy the path. Then you want to go to your browser > localhost > Add Virtual Host. Once you're there, paste in the pathway in the last box with the green boxes.
 
 ### Create Boostrap Integrated WP Themes
