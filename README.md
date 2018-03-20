@@ -18,5 +18,7 @@ Author: David T. Dassau
 Template:  twentyseventeen
 */
 ```
+- Go back to WP, refresh, and activate your new child theme
+- From there, you can start to add your own styles to the style sheet, and when you refresh your site, you can see the changes. 
 - It also helps to have some sort of dummy data, so you can actually see changes made to your site.
   - HINT: You can Google "Wordpress theme unit test data", and you'll find a link to download some test content to your site.
