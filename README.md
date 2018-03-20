@@ -34,3 +34,4 @@ You can give your local sites custom domain names, instead of having them be `lo
 3. What you need to do next is start creating your custom domain. First, inside the finder window in the "url" box with the folder path, click in there and copy the path. Then you want to go to your browser > localhost > Add Virtual Host. Once you're there, paste in the pathway in the last box with the green boxes.
 
 ### Create Boostrap Integrated WP Themes
+1. The first thing you want to do is, on the themes folder in your code editor, right-click and create a new folder called "parent_theme_name-child".
