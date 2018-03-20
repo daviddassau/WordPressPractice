@@ -9,6 +9,6 @@
   - Then, in your browser, you can type in localhost/whateverYouNamedYourFolder, and this will bring you to the first WP page, where you select your language.
   - You then want to again click on the WAMP icon, click on phpMyAdmin, and log in. Once you're in, you want to create a new database, and call it the same thing that you called this project.
   - Once you've done that, you can go back to the window in your browser with WP. Run through the steps.
-- Once you have that, you need to chose a parent theme for your Wordpress site.
+- Once you have that, you need to chose a parent theme for your Wordpress site. This can be any theme you want. It's easiest to start out with the official WP themes, such as `twentyseventeen` or `twentysixteen`.
 - It also helps to have some sort of dummy data, so you can actually see changes made to your site.
   - HINT: You can Google "Wordpress theme unit test data", and you'll find a link to download some test content to your site.
