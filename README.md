@@ -24,6 +24,8 @@ Template:  twentyseventeen
   - HINT: You can Google "Wordpress theme unit test data", and you'll find a link to download some test content to your site.
 
 ### Set up multiple sites with custom domains
-
+You can give your local sites custom domain names, instead of having them be `localhost/****`. Here are the steps:
+1. Create a folder anywhere. EX: Create a folder called `MyWebProjects` in your Documents folder. Inside that folder, create a new folder, and name it whatever your project is going to be.
+2. as;dkfj
 
 ### Create Boostrap Integrated WP Themes
