@@ -14,8 +14,12 @@
 ```CSS
 /*
 Theme Name: Child of Twenty Seventeen
+Theme URI: (this will be wherever your site is hosted)
+Description: A child theme of Twenty Seventeen
 Author: David T. Dassau
+Author URI: (Your personal develper website)
 Template:  twentyseventeen
+Version:
 */
 ```
 - Go back to WP, refresh, and activate your new child theme
