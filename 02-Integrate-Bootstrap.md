@@ -7,3 +7,8 @@
 5. Head over to the WP dashboard, and under Appearance, switch to your brand new child theme, and activate it.
 6. You'll also want a `header.php` and `footer.php` in your child theme folder. You can copy these two files from the parent theme, and paste them into your child theme.
 7. Then you'll want to head over to getbootstrap.com, and grab the CDNs for the CSS, JavaScript, and jQuery. You'll want to paste the CSS CDN into the `header.php` right before the closing header tag. Then paste in the JS and jQuery CDNs into the `footer.php` at the bottom before the closing body tag.
+
+
+## Resources
+Adding Bootstrap to Your WP Child Theme The Easy Way
+https://www.youtube.com/watch?v=OsPbtZnpUZk&t=418s
