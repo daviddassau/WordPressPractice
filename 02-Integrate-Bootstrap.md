@@ -10,7 +10,7 @@
 
 
 ## Resources
-Adding Bootstrap to Your WP Child Theme The Easy Way
+- Adding Bootstrap to Your WP Child Theme The Easy Way
 https://www.youtube.com/watch?v=OsPbtZnpUZk&t=418s
-How to include Bootstrap into a WordPress theme
+- How to include Bootstrap into a WordPress theme
 https://www.youtube.com/watch?v=GWnDBUQwgv8
