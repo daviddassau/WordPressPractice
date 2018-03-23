@@ -12,6 +12,6 @@ One of the most important things is setting up your `.gitignore` file properly w
 7. Now you should be able to go back to Github, refresh your repo page, and all the added files (which should just be the `.gitignore` and `README.md`) should now be visable.
 
 
-### Resources
+## Resources
 Putting Your WordPress Child Theme Under Git Version Control
 https://www.youtube.com/watch?v=I9o6GelEo6Q
