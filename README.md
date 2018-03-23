@@ -1,4 +1,4 @@
-# WordPress Practice
+# Running WordPress locally: An in-depth walkthrough
 
 Hello! If you are David Dassau, welcome back! If you've stumbled upon these notes, here's what you need to know:
 
