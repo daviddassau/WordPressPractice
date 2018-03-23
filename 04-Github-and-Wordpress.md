@@ -9,3 +9,4 @@ One of the most important things is setting up your `.gitignore` file properly w
 4. You'll then want to do a `git add .gitignore`, so we're staging that file first, before anything else.
 5. Then do a `git commit -m "adding .gitignore"`
 6. Finally, do a `git push origin master`
+7. Now you should be able to go back to Github, refresh your repo page, and all the added files (which should just be the `.gitignore` and `README.md`)
