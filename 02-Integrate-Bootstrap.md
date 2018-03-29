@@ -39,10 +39,12 @@ function theme_js() {
 add_action( 'wp_enqueue_scripts', 'theme_js');
 
 ?>
-``
+```
 
 
 ## Resources
+- How to Add Bootstrap to Your WordPress Theme
+https://www.zenwebthemes.com/blog/how-to-add-bootstrap-to-your-wordpress-theme/
 - Adding Bootstrap to Your WP Child Theme The Easy Way
 https://www.youtube.com/watch?v=OsPbtZnpUZk&t=418s
 - How to include Bootstrap into a WordPress theme
