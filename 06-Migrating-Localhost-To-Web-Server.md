@@ -10,3 +10,10 @@
 
 ### Step 2
 1. You will need Filezilla for this step. Open up Filezilla, login to your site via FTP, navigate to your `public_html` folder and copy the archive and installer files from your computer to the folder.
+
+### Step 3
+1. Now we need to install the archived site on the live server. We do this by accessing the installer file we just copied into the live site. In your browser, go to yourdomain.com/installer.php.
+2. If you did this correctly, you should see the installer interface, prompting you to add your MySQL details. Click **Create New**.
+
+### Resources
+https://premium.wpmudev.org/blog/guide-to-migrating-localhost-wordpress-to-live-site/
