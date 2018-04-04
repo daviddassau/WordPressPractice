@@ -9,4 +9,4 @@
 6. Now the plugin will begin backing up your site. Duplicator will produce two files for you: an archive of your site, as a `.ZIP` file; and an installer file, as a `.PHP` file.
 
 ### Step 2
-1. 
+1. You will need Filezilla for this step. Open up Filezilla, login to your site via FTP, navigate to your `public_html` folder and copy the archive and installer files from your computer to the folder.
